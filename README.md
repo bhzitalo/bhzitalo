@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/XvmaYHn.jpeg" width="200" align="right"/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhzitalo/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/4qrcu9vsh69qnmug1ko2koqap?si=77d8691cb02a40a9)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: bhz.italof@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/4qrcu9vsh69qnmug1ko2koqap?si=77d8691cb02a40a9)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"bhz.italo@gmail.com")
 
 
 <br>
@@ -23,4 +23,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+
 
