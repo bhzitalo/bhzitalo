@@ -1,6 +1,6 @@
 ## 🧙‍♂️ Italo "Finiz" Souza
 
-👋 Oi! Eu sou o Finiz, sou de Belo Horizonte e estudo `Sistemas de Informação` e `Análise e Desenvolvimento de Sistemas`. Apaixonado por tecnologia, desenvolvimento e inovação. Tenho um grande interesse por tudo que envolve tecnologia.
+👋 Oi! Eu sou o Finiz, sou de Belo Horizonte e estudo `Análise e Desenvolvimento de Sistemas`. Apaixonado por tecnologia, desenvolvimento e inovação. Tenho um grande interesse por tudo que envolve tecnologia.
 
 ## 💡 Você pode me encontrar por aqui:
 
@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+
 
 
 
