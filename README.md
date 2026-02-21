@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://i.imgur.com/XvmaYHn.jpeg" align="right" width="180" style="height: auto; border-radius: 12px;" />
+<img src="https://i.imgur.com/XvmaYHn.jpeg" align="right" width="180" style="height: auto; border-radius: 30px;" />
 
 - Python (fundamentos e estruturas de controle)
 - HTML5 e CSS3
