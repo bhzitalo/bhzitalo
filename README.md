@@ -1,12 +1,15 @@
-# 👋 # 👋 Olá, eu sou o Ítalo Souza
+# 👋 Olá, eu sou o Ítalo Souza
 
-<img src="https://i.imgur.com/XvmaYHn.jpeg" width="200" align="right"/>
+<img src="https://i.imgur.com/XvmaYHn.jpeg" align="right" width="180" style="height: auto; border-radius: 12px;" />
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa
-- 📍 Belo Horizonte – MG
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa  
+- 📍 Belo Horizonte – MG  
+<br>
+<br>
+<br>
 
-## 📝 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 - Python (fundamentos e estruturas de controle)
 - HTML5 e CSS3
@@ -20,12 +23,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 📚 Atualmente focado em:
+## 📚 Atualmente focado em
 
 - Estruturas de repetição e funções em Python
 - Desenvolvimento web básico
 - Versionamento de código
 
-## 🌐 Você Pode Me Contatar
+## 🌐 Contato
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhzitalo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhz.italo@gmail.com)
