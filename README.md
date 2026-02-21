@@ -1,12 +1,25 @@
 # 👋 Olá, eu sou o Ítalo Souza
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa  
-- 📍 Belo Horizonte – MG  
+<table>
+<tr>
+<td>
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa  
+📍 Belo Horizonte – MG  
+
+</td>
+<td>
+
+<img src="https://i.imgur.com/XvmaYHn.jpeg"
+     width="180"
+     style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tecnologias e Ferramentas
-
-<img src="https://i.imgur.com/XvmaYHn.jpeg" align="right" width="180" style="height: auto; border-radius: 30px;" />
 
 - Python (fundamentos e estruturas de controle)
 - HTML5 e CSS3
