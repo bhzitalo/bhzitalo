@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Ítalo Souza
 
+<div align="center">
+
 <table>
 <tr>
 <td>
@@ -18,6 +20,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
