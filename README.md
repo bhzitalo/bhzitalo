@@ -1,26 +1,18 @@
 # 👋 Olá, eu sou o Ítalo Souza
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa  
-📍 Belo Horizonte – MG  
-
-</td>
-<td>
-
-<img src="https://i.imgur.com/XvmaYHn.jpeg"
-     width="180"
-     style="border-radius: 12px;" />
-
-</td>
-</tr>
-</table>
-
+    <table>
+        <tr>
+            <td>
+                🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+                💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa  
+                📍 Belo Horizonte – MG  
+            </td>
+            <td>
+                <img src="https://i.imgur.com/XvmaYHn.jpeg" width="180" style="border-radius: 12px;" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -35,6 +27,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📚 Atualmente focado em
