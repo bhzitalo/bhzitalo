@@ -13,6 +13,6 @@ Atualmente focado em Python, desenvolvimento backend e construção de projetos 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,netlify,mysql,nodejs,py,vscode"/>
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,md,mysql,netlify,py,vscode"/>
   </a>
 </p>
