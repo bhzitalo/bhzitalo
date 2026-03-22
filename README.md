@@ -7,7 +7,7 @@ Olá! Meu nome é Ítalo, sou estudante de Análise e Desenvolvimento de Sistema
 
 Tenho interesse em desenvolvimento de software e em criar soluções que impactem a vida das pessoas, com foco nas áreas de saúde e aviação.
 
-💡 Atualmente focado em Python, desenvolvimento backend e no desenvolvimento do PrInt, um sistema de pré-diagnóstico inteligente voltado para a área da saúde.
+💡 Atualmente focado em Python, desenvolvimento backend e no desenvolvimento do **PrInt**, um sistema de pré-diagnóstico inteligente voltado para a área da saúde.
 
 ## 🚀 Tecnologias e ferramentas que estou estudando
 
@@ -24,7 +24,7 @@ Sistema em desenvolvimento com o objetivo de auxiliar na identificação prelimi
 
 A proposta é utilizar tecnologia para facilitar o acesso à informação e apoiar decisões iniciais, sem substituir avaliação médica profissional.
 
-📌 Status: Em desenvolvimento
+📌 Status: `Em desenvolvimento`
 🔗 Projeto: https://github.com/bhzitalo/pre-diagnostico-inteligente
 
 ## 🎯 Objetivo
