@@ -1,42 +1,18 @@
-# 👋 Olá, eu sou o Ítalo Souza
-
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-                💻 Interessado em Desenvolvimento, Suporte e Tecnologia Corporativa  
-                📍 Belo Horizonte – MG  
-            </td>
-            <td>
-                <img src="https://i.imgur.com/XvmaYHn.jpeg" width="180" style="border-radius: 12px;" />
-            </td>
-        </tr>
-    </table>
-</div>
-
-## 🛠️ Tecnologias e Ferramentas
-
-- Python (fundamentos e estruturas de controle)
-- HTML5 e CSS3
-- Git e GitHub (versionamento básico)
-- Excel (análise e controle de dados)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-## 📚 Atualmente focado em
-
-- Estruturas de repetição e funções em Python
-- Desenvolvimento web básico
-- Versionamento de código
-
-## 🌐 Contato
-
+# Ítalo Souza #Garfanhoto
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhzitalo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhz.italo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bhz.italo/)
+
+Olá! Meu nome é Ítalo, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de tecnologia.
+
+Tenho interesse em desenvolvimento de software e no setor de aviação, onde pretendo construir minha carreira.
+
+Atualmente focado em Python, desenvolvimento backend e construção de projetos práticos.
+
+## 🚀 Tecnologias e ferramentas que estou estudando
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,netlify,mysql,nodejs,py,vscode"/>
+  </a>
+</p>
